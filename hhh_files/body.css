@@ -1,0 +1,127 @@
+.ad-image{
+    width: 100%;
+   max-width:1350px;
+    height: 550px;
+    position: relative;
+    min-width: 1000px;
+}
+.ad{
+    opacity: 0.945;
+    margin-top: 67px;
+}
+.ad-text{
+    color:antiquewhite;
+    font-size: 70px;
+    position:absolute;
+    top: 270px;
+    left: 20px;
+}
+.subad-text{
+font-size: 32px;
+font-family: cursive;
+left:20px;
+}
+.categories{
+    display: flex;
+    flex-direction: column;  
+    margin-top: 1px;
+    max-width: 340px;
+    bottom:0;
+}
+.necklace{
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+}
+.necklace-hover{
+left: 0;
+    flex: 1;
+     border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+    position: absolute;
+    opacity:0;
+}
+.necklace-hover:hover{
+    opacity: 2;
+    transition-duration: 3s;
+}
+.earring{
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width:336.9px ;
+    height: 336.9px;
+}
+.earring-hover{
+left: 0;
+    flex: 1;
+      border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+     position: absolute;
+    opacity:0;
+}
+.earring-hover:hover{
+    opacity: 2;
+    transition-duration: 3s;
+}
+.bracelet{
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+}
+.bracelet-hover{
+left: 0;
+    flex: 1;
+      border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+     position: absolute;
+    opacity:0;
+}
+.bracelet-hover:hover{
+    opacity:2;
+    transition-duration: 3s;
+}
+.bags{
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+}
+.bags-hover{
+left: 0;
+    flex: 1;
+      border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 336.9px;
+    height: 336.9px;
+     position: absolute;
+    opacity:0;
+}
+.bags-hover:hover{
+    opacity: 2; 
+    transition-duration: 3s;
+}
+.info-background{
+    border-radius: 10px;
+    background-color: yellowgreen;
+    color:violet;
+    height:1400px;
+    position: absolute;
+    top: 619px;
+    left: 348px;
+}
