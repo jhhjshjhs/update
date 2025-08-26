@@ -8,4 +8,5 @@ box-sizing: border-box;
     padding-top: 10px;
 }
 
-@media(orientation: potrait)
+@media(orientation: landscape)
+
